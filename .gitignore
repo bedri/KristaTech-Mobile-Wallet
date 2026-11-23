@@ -1,0 +1,14 @@
+node_modules/
+.nuxt/
+.output/
+dist
+*.log
+
+# Native build artifacts
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+ios/App/Pods/
+ios/App/DerivedData/
+ios/DerivedData/
